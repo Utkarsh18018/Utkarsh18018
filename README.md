@@ -1,7 +1,5 @@
 # Hello, I'm Utkarsh! 👋
 
-![Profile Banner](https://your-image-url.com/banner.png)
-
 ### 💻 Frontend Developer | 👨‍💻 Open-Source Contributor | 🚀 Tech Enthusiast
 
 ---
