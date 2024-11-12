@@ -53,7 +53,7 @@ I'm a passionate **Frontend Developer** and **Open-Source Contributor** with a l
 ---
 
 ### 🌐 **Find Me Online**
-- **LinkedIn**: [Utkarsh Sharma]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/utkarsh-sharma-6b41a4274/))
+- **LinkedIn**: [Utkarsh Sharma](https://www.linkedin.com/in/utkarsh-sharma-6b41a4274/)
 
 - **Portfolio**: [utkarsh.dev](https://your-portfolio-url.com)
 
