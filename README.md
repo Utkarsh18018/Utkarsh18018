@@ -66,12 +66,6 @@ If you'd like to collaborate, contribute to open-source, or just have a chat abo
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/utkarsh-sharma-6b41a4274/))
 
 
----
-
-### 🔥 **GitHub Activity**
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Utkarsh18018&theme=rogue" alt="Utkarsh's GitHub Activity Graph" width="600"/>
-</p>
 
 ---
 
